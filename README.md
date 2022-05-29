@@ -1,4 +1,4 @@
-# Work_day_Calendar
+# Work Day Calendar
 # by_James_Fidlin
 
 <div id="top"></div>
@@ -13,7 +13,7 @@
     <img src="images/favicon.ico" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Coding Quiz</h3>
+  <h3 align="center">Work Day Calendar</h3>
 
   <p align="center">
     <a href="https://jamesf905.github.io/Work_day_Calendar/"><strong>https://jamesf905.github.io/Work_day_Calendar/</strong></a>
